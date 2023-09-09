@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sdgreenl
-- 👀 I’m interested in EE
-- 🌱 I’m currently learning SystemVerilog
+- 👀 I’m interested in CompE
+- 🌱 I’m currently learning SystemVerilog, C, CSS, HTML, Python
 - 💞️ I’m looking to collaborate on anything that doesn't break the academic honesty policy
 - 📫 How to reach me sdgreenl@purdue.edu
 
